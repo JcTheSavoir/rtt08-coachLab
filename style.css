@@ -1,8 +1,21 @@
 .adBar{
     border:solid #333c3f;
     height:6vh;
-    
+    background-color: #333c3f;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
 }
+
+.leftArrow{
+    height:15px;
+}
+.rightArrow{
+    height: 15px;
+}
+
+
+
 .coachSection{
     border:solid black;
     height:12vh;
