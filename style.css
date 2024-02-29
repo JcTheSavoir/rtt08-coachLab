@@ -1,0 +1,33 @@
+.adBar{
+    border:solid #333c3f;
+    height:6vh;
+    
+}
+.coachSection{
+    border:solid black;
+    height:12vh;
+}
+.navbar{
+    border:solid black;
+    height:12vh;
+}
+.optionsMenu{
+    border:solid blue;
+    height:12vh;
+}
+.titleMain{
+    border:solid red;
+    height:12vh;
+}
+.caroContainer{
+    border:solid orange;
+    height:12vh;
+}
+.mainImg{
+    border:solid peru;
+    height:12vh;
+}
+.btnContainer{
+    border:solid lime;
+    height:12vh;
+}
